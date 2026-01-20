@@ -1,0 +1,9 @@
+paths:
+  tugu-kopi:
+    source: rtsp://xxx:xxxx@x:554/Streaming/Channels/102
+  tugu-adipura:
+    source: rtsp://xxx:xxxx@x:554/Streaming/Channels/102
+  simpang-kepur-01:
+    source: rtsp://x:x@x:554/Streaming/Channels/102
+  simpang-kepur-ptz:
+    source: rtsp://x:x@x:554/Streaming/Channels/102
